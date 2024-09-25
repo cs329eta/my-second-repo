@@ -53,15 +53,5 @@ func _on_Player_body_entered(_body):
 	$CollisionShape2D.set_deferred(&"disabled", true)
 
 
-fun my_func_member2():
-	print("Hello from my_func_member2")
-
-fun my_func_member2():
-	print("Hello from my_func_member2, trying to generate conflict")
-
-fun my_func_member1():
-	print("Hello from my_func_member1")
-
-
-fun my_func_member1_branch():
-	print("Hello from my_func_member1 branch")
+func my_func_team2():
+	print(HEloo"")
