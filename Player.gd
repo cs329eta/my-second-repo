@@ -58,3 +58,6 @@ func my_func_member2():
 
 func my_func_member2():
 	print("Hello from my_func_member2, did i get conflict")
+
+func my_func_member1():
+	print("Hello from my_func_member2, trying to generate conflict from member 1")
