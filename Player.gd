@@ -53,4 +53,5 @@ func _on_Player_body_entered(_body):
 	$CollisionShape2D.set_deferred(&"disabled", true)
 
 
-
+fun my_func_member2():
+	print("Hello from my_func_member2")
