@@ -61,3 +61,7 @@ fun my_func_member2():
 
 fun my_func_member1():
 	print("Hello from my_func_member1")
+
+
+fun my_func_member1_branch():
+	print("Hello from my_func_member1 branch")
