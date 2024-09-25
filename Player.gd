@@ -55,3 +55,7 @@ func _on_Player_body_entered(_body):
 
 fun my_func_member2():
 	print("Hello from my_func_member2")
+
+
+fun my_func_member1():
+	print("Hello from my_func_member1")
