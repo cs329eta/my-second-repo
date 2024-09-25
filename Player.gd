@@ -55,3 +55,6 @@ func _on_Player_body_entered(_body):
 
 func my_func_member2():
 	print("Hello from my_func_member2")
+
+func my_func_member2():
+	print("Hello from my_func_member2, did i get conflict")
